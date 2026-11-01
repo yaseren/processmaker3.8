@@ -43,7 +43,7 @@ INSERT INTO `LANGUAGE` (`LAN_ID`, `LAN_NAME`, `LAN_NATIVE_NAME`, `LAN_DIRECTION`
 ('es', 'Spanish', 'EspaÃƒÂ±ol', 'L', 26, '0', 'GREGORIAN'),
 ('et', 'Estonian', '', 'L', 27, '0', 'GREGORIAN'),
 ('eu', 'Basque', '', 'L', 28, '0', 'GREGORIAN'),
-('fa', 'Persian', '', 'R', 29, '0', 'PERSIAN'),
+('fa', 'Persian', 'فارسی', 'R', 29, '1', 'PERSIAN'),
 ('fi', 'Finnish', '', 'L', 30, '0', 'GREGORIAN'),
 ('fj', 'Fiji', '', 'L', 31, '0', 'GREGORIAN'),
 ('fo', 'Faeroese', '', 'L', 32, '0', 'GREGORIAN'),
