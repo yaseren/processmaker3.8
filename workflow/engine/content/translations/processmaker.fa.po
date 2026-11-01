@@ -30564,2055 +30564,2055 @@ msgstr "ادامه"
 msgid "test javaScript"
 msgstr "test javaScript"
 
-# TRANSLATION
 # setup/calendarEdit.xml?BTN_CANCEL
-#: setup/calendarEdit.xml?BTN_CANCEL
+# setup/calendarEdit.xml
+#: button - BTN_CANCEL
 msgid "[setup/calendarEdit.xml?BTN_CANCEL] Cancel"
-msgstr "[setup/calendarEdit.xml?BTN_CANCEL] لغو"
+msgstr "لغو"
 
-# TRANSLATION
 # setup/calendarEdit.xml?BUSINESS_DAY_STATUS
-#: setup/calendarEdit.xml?BUSINESS_DAY_STATUS
+# setup/calendarEdit.xml
+#: checkbox - BUSINESS_DAY_STATUS
 msgid "[setup/calendarEdit.xml?BUSINESS_DAY_STATUS] "
-msgstr "[setup/calendarEdit.xml?BUSINESS_DAY_STATUS] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?BUSINESS_DAY_TITLE
-#: setup/calendarEdit.xml?BUSINESS_DAY_TITLE
+# setup/calendarEdit.xml
+#: title - BUSINESS_DAY_TITLE
 msgid "Work Hours"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_HOURS] ساعت‌های کاری"
+msgstr "ساعت‌های کاری"
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_DESCRIPTION
-#: setup/calendarEdit.xml?CALENDAR_DESCRIPTION
+# setup/calendarEdit.xml
+#: textarea - CALENDAR_DESCRIPTION
 msgid "[setup/calendarEdit.xml?CALENDAR_DESCRIPTION] Description"
-msgstr "[setup/calendarEdit.xml?CALENDAR_DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_NAME
-#: setup/calendarEdit.xml?CALENDAR_NAME
+# setup/calendarEdit.xml
+#: text - CALENDAR_NAME
 msgid "[setup/calendarEdit.xml?CALENDAR_NAME] Name"
-msgstr "[setup/calendarEdit.xml?CALENDAR_NAME] نام"
+msgstr "نام"
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_STATUS
-#: setup/calendarEdit.xml?CALENDAR_STATUS
+# setup/calendarEdit.xml
+#: checkbox - CALENDAR_STATUS
 msgid "[setup/calendarEdit.xml?CALENDAR_STATUS] Active"
-msgstr "[setup/calendarEdit.xml?CALENDAR_STATUS] فعال"
+msgstr "فعال"
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS] "
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 0
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 1
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 2
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 3
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 4
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 5
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6
-#: setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 6
 msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6]"
-msgstr "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?DEFINITION_TITLE
-#: setup/calendarEdit.xml?DEFINITION_TITLE
+# setup/calendarEdit.xml
+#: title - DEFINITION_TITLE
 msgid "[setup/calendarEdit.xml?DEFINITION_TITLE] Calendar Definition"
-msgstr "[setup/calendarEdit.xml?DEFINITION_TITLE] تعریف تقویم"
+msgstr "تعریف تقویم"
 
-# TRANSLATION
 # setup/calendarEdit.xml?HOLIDAY_LABEL
-#: setup/calendarEdit.xml?HOLIDAY_LABEL
+# setup/calendarEdit.xml
+#: title - HOLIDAY_LABEL
 msgid "[setup/calendarEdit.xml?HOLIDAY_LABEL] Holidays"
-msgstr "[setup/calendarEdit.xml?HOLIDAY_LABEL] تعطیلات"
+msgstr "تعطیلات"
 
-# TRANSLATION
 # setup/calendarEdit.xml?HOLIDAY_STATUS
-#: setup/calendarEdit.xml?HOLIDAY_STATUS
+# setup/calendarEdit.xml
+#: checkbox - HOLIDAY_STATUS
 msgid "[setup/calendarEdit.xml?HOLIDAY_STATUS] "
-msgstr "[setup/calendarEdit.xml?HOLIDAY_STATUS] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit.xml?SUBMIT
-#: setup/calendarEdit.xml?SUBMIT
+# setup/calendarEdit.xml
+#: button - SUBMIT
 msgid "[setup/calendarEdit.xml?SUBMIT] Save"
-msgstr "[setup/calendarEdit.xml?SUBMIT] ذخیره"
+msgstr "ذخیره"
 
-# TRANSLATION
 # setup/calendarEdit.xml?SUBMIT2
-#: setup/calendarEdit.xml?SUBMIT2
+# setup/calendarEdit.xml
+#: button - SUBMIT2
 msgid "[setup/calendarEdit.xml?SUBMIT2] Save"
-msgstr "[setup/calendarEdit.xml?SUBMIT2] ذخیره"
+msgstr "ذخیره"
 
-# TRANSLATION
 # setup/calendarEdit.xml?WorkDays
-#: setup/calendarEdit.xml?WorkDays
+# setup/calendarEdit.xml
+#: title - WorkDays
 msgid "[setup/calendarEdit.xml?WorkDays] Work Days"
-msgstr "[setup/calendarEdit.xml?WorkDays] روزهای کاری"
+msgstr "روزهای کاری"
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY] Day"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY] روز"
+msgstr "روز"
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 0
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 1
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 2
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 3
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 4
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 5
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 6
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 7
 msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7]"
-msgstr "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7]"
+msgstr ""
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_END
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_END
+# setup/calendarEdit_BusinessHours.xml
+#: text - CALENDAR_BUSINESS_END
 msgid "End (hh:mm)"
 msgstr "پایان (hh:mm)"
 
-# TRANSLATION
 # setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_START
-#: setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_START
+# setup/calendarEdit_BusinessHours.xml
+#: text - CALENDAR_BUSINESS_START
 msgid "Start (hh:mm)"
 msgstr "شروع (hh:mm)"
 
-# TRANSLATION
 # setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_END
-#: setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_END
+# setup/calendarEdit_Holidays.xml
+#: date - CALENDAR_HOLIDAY_END
 msgid "End Date (Recurrent \"Y-m-d\")"
 msgstr "تاریخ پایان (تکراری «Y-m-d»)"
 
-# TRANSLATION
 # setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME
-#: setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME
+# setup/calendarEdit_Holidays.xml
+#: text - CALENDAR_HOLIDAY_NAME
 msgid "[setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME] Name"
-msgstr "[setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME] نام"
+msgstr "نام"
 
-# TRANSLATION
 # setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_START
-#: setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_START
+# setup/calendarEdit_Holidays.xml
+#: date - CALENDAR_HOLIDAY_START
 msgid "Start Date (Recurrent \"Y-m-d\")"
 msgstr "تاریخ شروع (تکراری «Y-m-d»)"
 
-# TRANSLATION
 # setup/calendarList.xml?CALENDAR_DESCRIPTION
-#: setup/calendarList.xml?CALENDAR_DESCRIPTION
+# setup/calendarList.xml
+#: text - CALENDAR_DESCRIPTION
 msgid "[setup/calendarList.xml?CALENDAR_DESCRIPTION] Description"
-msgstr "[setup/calendarList.xml?CALENDAR_DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/calendarList.xml?CALENDAR_NAME
-#: setup/calendarList.xml?CALENDAR_NAME
+# setup/calendarList.xml
+#: text - CALENDAR_NAME
 msgid "[setup/calendarList.xml?CALENDAR_NAME] Name"
-msgstr "[setup/calendarList.xml?CALENDAR_NAME] نام"
+msgstr "نام"
 
-# TRANSLATION
 # setup/calendarList.xml?CALENDAR_STATUS
-#: setup/calendarList.xml?CALENDAR_STATUS
+# setup/calendarList.xml
+#: text - CALENDAR_STATUS
 msgid "[setup/calendarList.xml?CALENDAR_STATUS] Status"
-msgstr "[setup/calendarList.xml?CALENDAR_STATUS] وضعیت"
+msgstr "وضعیت"
 
-# TRANSLATION
 # setup/calendarList.xml?LINK
-#: setup/calendarList.xml?LINK
+# setup/calendarList.xml
+#: link - LINK
 msgid "[setup/calendarList.xml?LINK] "
-msgstr "[setup/calendarList.xml?LINK] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarList.xml?LINK1
-#: setup/calendarList.xml?LINK1
+# setup/calendarList.xml
+#: link - LINK1
 msgid "[setup/calendarList.xml?LINK1] "
-msgstr "[setup/calendarList.xml?LINK1] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarList.xml?LINK2
-#: setup/calendarList.xml?LINK2
+# setup/calendarList.xml
+#: link - LINK2
 msgid "[setup/calendarList.xml?LINK2] "
-msgstr "[setup/calendarList.xml?LINK2] "
+msgstr ""
 
-# TRANSLATION
 # setup/calendarList_Options.xml?MNU_NEW
-#: setup/calendarList_Options.xml?MNU_NEW
+# setup/calendarList_Options.xml
+#: link - MNU_NEW
 msgid "[setup/calendarList_Options.xml?MNU_NEW] New"
-msgstr "[setup/calendarList_Options.xml?MNU_NEW] جدید"
+msgstr "جدید"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?BTN_SUBMIT
-#: setup/emailSetupTest.xml?BTN_SUBMIT
+# setup/emailSetupTest.xml
+#: submit - BTN_SUBMIT
 msgid "Send Email"
 msgstr "ارسال ایمیل"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?TITLE1
-#: setup/emailSetupTest.xml?TITLE1
+# setup/emailSetupTest.xml
+#: title - TITLE1
 msgid "Mail System Test Page"
 msgstr "صفحه آزمایش سامانه ایمیل"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?body
-#: setup/emailSetupTest.xml?body
+# setup/emailSetupTest.xml
+#: textarea - body
 msgid "[setup/emailSetupTest.xml?body] File"
-msgstr "[setup/emailSetupTest.xml?body] فایل"
+msgstr "فایل"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?domain
-#: setup/emailSetupTest.xml?domain
+# setup/emailSetupTest.xml
+#: text - domain
 msgid "Domain"
 msgstr "دامنه"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?from_email
-#: setup/emailSetupTest.xml?from_email
+# setup/emailSetupTest.xml
+#: text - from_email
 msgid "From Email:"
 msgstr "ایمیل فرستنده:"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?from_name
-#: setup/emailSetupTest.xml?from_name
+# setup/emailSetupTest.xml
+#: text - from_name
 msgid "From Name:"
 msgstr "نام فرستنده:"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?subject
-#: setup/emailSetupTest.xml?subject
+# setup/emailSetupTest.xml
+#: text - subject
 msgid "Subject:"
 msgstr "موضوع:"
 
-# TRANSLATION
 # setup/emailSetupTest.xml?to_email
-#: setup/emailSetupTest.xml?to_email
+# setup/emailSetupTest.xml
+#: text - to_email
 msgid "To:"
 msgstr "گیرنده:"
 
-# TRANSLATION
 # setup/emails.xml?MESS_ACCOUNT
-#: setup/emails.xml?MESS_ACCOUNT
+# setup/emails.xml
+#: text - MESS_ACCOUNT
 msgid "SMTP Username"
 msgstr "نام کاربری SMTP"
 
-# TRANSLATION
 # setup/emails.xml?MESS_BACKGROUND
-#: setup/emails.xml?MESS_BACKGROUND
+# setup/emails.xml
+#: checkbox - MESS_BACKGROUND
 msgid "Run in the background"
 msgstr "اجرا در پس‌زمینه"
 
-# TRANSLATION
 # setup/emails.xml?MESS_ENABLED
-#: setup/emails.xml?MESS_ENABLED
+# setup/emails.xml
+#: checkbox - MESS_ENABLED
 msgid "[setup/emails.xml?MESS_ENABLED] Enable Email Notifications"
-msgstr "[setup/emails.xml?MESS_ENABLED] فعال‌سازی اعلان‌های ایمیل"
+msgstr "فعال‌سازی اعلان‌های ایمیل"
 
-# TRANSLATION
 # setup/emails.xml?MESS_ENGINE
-#: setup/emails.xml?MESS_ENGINE
+# setup/emails.xml
+#: dropdown - MESS_ENGINE
 msgid "[setup/emails.xml?MESS_ENGINE] Email Engine"
-msgstr "[setup/emails.xml?MESS_ENGINE] موتور ایمیل"
+msgstr "موتور ایمیل"
 
-# TRANSLATION
 # setup/emails.xml?MESS_EXECUTE_EVERY
-#: setup/emails.xml?MESS_EXECUTE_EVERY
+# setup/emails.xml
+#: text - MESS_EXECUTE_EVERY
 msgid "Execute every (in minutes)"
 msgstr "اجرا هر (به دقیقه)"
 
-# TRANSLATION
 # setup/emails.xml?MESS_PASSWORD
-#: setup/emails.xml?MESS_PASSWORD
+# setup/emails.xml
+#: password - MESS_PASSWORD
 msgid "SMTP Password"
 msgstr "رمز عبور SMTP"
 
-# TRANSLATION
 # setup/emails.xml?MESS_PORT
-#: setup/emails.xml?MESS_PORT
+# setup/emails.xml
+#: text - MESS_PORT
 msgid "[setup/emails.xml?MESS_PORT] Port (default 25)"
-msgstr "[setup/emails.xml?MESS_PORT] درگاه (پیش‌فرض ۲۵)"
+msgstr "درگاه (پیش‌فرض ۲۵)"
 
-# TRANSLATION
 # setup/emails.xml?MESS_RAUTH
-#: setup/emails.xml?MESS_RAUTH
+# setup/emails.xml
+#: checkbox - MESS_RAUTH
 msgid "[setup/emails.xml?MESS_RAUTH] Require authentication"
-msgstr "[setup/emails.xml?MESS_RAUTH] الزام احراز هویت"
+msgstr "الزام احراز هویت"
 
-# TRANSLATION
 # setup/emails.xml?MESS_SEND_MAX
-#: setup/emails.xml?MESS_SEND_MAX
+# setup/emails.xml
+#: text - MESS_SEND_MAX
 msgid "Maximun number of mails sended by attempt"
 msgstr "حداکثر تعداد ایمیل ارسالی در هر تلاش"
 
-# TRANSLATION
 # setup/emails.xml?MESS_SERVER
-#: setup/emails.xml?MESS_SERVER
+# setup/emails.xml
+#: text - MESS_SERVER
 msgid "[setup/emails.xml?MESS_SERVER] Server"
-msgstr "[setup/emails.xml?MESS_SERVER] سرور"
+msgstr "سرور"
 
-# TRANSLATION
 # setup/emails.xml?MESS_TEST_MAIL
-#: setup/emails.xml?MESS_TEST_MAIL
+# setup/emails.xml
+#: checkbox - MESS_TEST_MAIL
 msgid "[setup/emails.xml?MESS_TEST_MAIL] Send a test mail"
-msgstr "[setup/emails.xml?MESS_TEST_MAIL] ارسال ایمیل آزمایشی"
+msgstr "ارسال ایمیل آزمایشی"
 
-# TRANSLATION
 # setup/emails.xml?MESS_TEST_MAIL_TO
-#: setup/emails.xml?MESS_TEST_MAIL_TO
+# setup/emails.xml
+#: text - MESS_TEST_MAIL_TO
 msgid "[setup/emails.xml?MESS_TEST_MAIL_TO] Mail to"
-msgstr "[setup/emails.xml?MESS_TEST_MAIL_TO] ارسال به"
+msgstr "ارسال به"
 
-# TRANSLATION
 # setup/emails.xml?MESS_TRY_SEND_INMEDIATLY
-#: setup/emails.xml?MESS_TRY_SEND_INMEDIATLY
+# setup/emails.xml
+#: checkbox - MESS_TRY_SEND_INMEDIATLY
 msgid "Try to send emails immediately"
 msgstr "تلاش برای ارسال فوری ایمیل‌ها"
 
-# TRANSLATION
 # setup/emails.xml?SAVE_CHANGES
-#: setup/emails.xml?SAVE_CHANGES
+# setup/emails.xml
+#: button - SAVE_CHANGES
 msgid "[setup/emails.xml?SAVE_CHANGES] Save Changes"
-msgstr "[setup/emails.xml?SAVE_CHANGES] ذخیره تغییرات"
+msgstr "ذخیره تغییرات"
 
-# TRANSLATION
 # setup/emails.xml?SAVE_CHANGES2
-#: setup/emails.xml?SAVE_CHANGES2
+# setup/emails.xml
+#: button - SAVE_CHANGES2
 msgid "[setup/emails.xml?SAVE_CHANGES2] Save Changes"
-msgstr "[setup/emails.xml?SAVE_CHANGES2] ذخیره تغییرات"
+msgstr "ذخیره تغییرات"
 
-# TRANSLATION
 # setup/emails.xml?SMTPSecure
-#: setup/emails.xml?SMTPSecure
+# setup/emails.xml
+#: radiogroup - SMTPSecure
 msgid "[setup/emails.xml?SMTPSecure] Use Secure Connection"
-msgstr "[setup/emails.xml?SMTPSecure] استفاده از اتصال امن"
+msgstr "استفاده از اتصال امن"
 
-# TRANSLATION
 # setup/emails.xml?SMTPSecure-none
-#: setup/emails.xml?SMTPSecure-none
+# setup/emails.xml
+#: radiogroup - SMTPSecure - none
 msgid "[setup/emails.xml?SMTPSecure-none]"
-msgstr "[setup/emails.xml?SMTPSecure-none]"
+msgstr ""
 
-# TRANSLATION
 # setup/emails.xml?SMTPSecure-ssl
-#: setup/emails.xml?SMTPSecure-ssl
+# setup/emails.xml
+#: radiogroup - SMTPSecure - ssl
 msgid "[setup/emails.xml?SMTPSecure-ssl]"
-msgstr "[setup/emails.xml?SMTPSecure-ssl]"
+msgstr ""
 
-# TRANSLATION
 # setup/emails.xml?SMTPSecure-tls
-#: setup/emails.xml?SMTPSecure-tls
+# setup/emails.xml
+#: radiogroup - SMTPSecure - tls
 msgid "[setup/emails.xml?SMTPSecure-tls]"
-msgstr "[setup/emails.xml?SMTPSecure-tls]"
+msgstr ""
 
-# TRANSLATION
 # setup/emails.xml?TEST
-#: setup/emails.xml?TEST
+# setup/emails.xml
+#: button - TEST
 msgid "[setup/emails.xml?TEST] Test"
-msgstr "[setup/emails.xml?TEST] آزمون"
+msgstr "آزمون"
 
-# TRANSLATION
 # setup/emails.xml?THETITLE
-#: setup/emails.xml?THETITLE
+# setup/emails.xml
+#: title - THETITLE
 msgid "[setup/emails.xml?THETITLE] Configuration"
-msgstr "[setup/emails.xml?THETITLE] پیکربندی"
+msgstr "پیکربندی"
 
-# TRANSLATION
 # setup/emails_Sended.xml?ClOSE
-#: setup/emails_Sended.xml?ClOSE
+# setup/emails_Sended.xml
+#: button - ClOSE
 msgid "[setup/emails_Sended.xml?ClOSE] Close"
-msgstr "[setup/emails_Sended.xml?ClOSE] بستن"
+msgstr "بستن"
 
-# TRANSLATION
 # setup/emails_Sended.xml?MESSAGE
-#: setup/emails_Sended.xml?MESSAGE
+# setup/emails_Sended.xml
+#: title - MESSAGE
 msgid "@#MESSAGE_VALUE"
 msgstr "@#MESSAGE_VALUE"
 
-# TRANSLATION
 # setup/emails_TestForm.xml?FROM_EMAIL
-#: setup/emails_TestForm.xml?FROM_EMAIL
+# setup/emails_TestForm.xml
+#: text - FROM_EMAIL
 msgid "[setup/emails_TestForm.xml?FROM_EMAIL] From Email:"
-msgstr "[setup/emails_TestForm.xml?FROM_EMAIL] ایمیل فرستنده:"
+msgstr "ایمیل فرستنده:"
 
-# TRANSLATION
 # setup/emails_TestForm.xml?FROM_NAME
-#: setup/emails_TestForm.xml?FROM_NAME
+# setup/emails_TestForm.xml
+#: text - FROM_NAME
 msgid "[setup/emails_TestForm.xml?FROM_NAME] From Name:"
-msgstr "[setup/emails_TestForm.xml?FROM_NAME] نام فرستنده:"
+msgstr "نام فرستنده:"
 
-# TRANSLATION
 # setup/emails_TestForm.xml?SEND
-#: setup/emails_TestForm.xml?SEND
+# setup/emails_TestForm.xml
+#: button - SEND
 msgid "[setup/emails_TestForm.xml?SEND] Send Email"
-msgstr "[setup/emails_TestForm.xml?SEND] ارسال ایمیل"
+msgstr "ارسال ایمیل"
 
-# TRANSLATION
 # setup/emails_TestForm.xml?THETITLE
-#: setup/emails_TestForm.xml?THETITLE
+# setup/emails_TestForm.xml
+#: title - THETITLE
 msgid "Mail Configuration Test Page"
 msgstr "صفحه آزمایش پیکربندی ایمیل"
 
-# TRANSLATION
 # setup/emails_TestForm.xml?TO
-#: setup/emails_TestForm.xml?TO
+# setup/emails_TestForm.xml
+#: text - TO
 msgid "[setup/emails_TestForm.xml?TO] To:"
-msgstr "[setup/emails_TestForm.xml?TO] گیرنده:"
+msgstr "گیرنده:"
 
-# TRANSLATION
 # setup/holiday.xml?BSUBMIT
-#: setup/holiday.xml?BSUBMIT
+# setup/holiday.xml
+#: button - BSUBMIT
 msgid "[setup/holiday.xml?BSUBMIT] Accept"
-msgstr "[setup/holiday.xml?BSUBMIT] تأیید"
+msgstr "تأیید"
 
-# TRANSLATION
 # setup/holiday.xml?DATE
-#: setup/holiday.xml?DATE
+# setup/holiday.xml
+#: date - DATE
 msgid "[setup/holiday.xml?DATE] Date"
-msgstr "[setup/holiday.xml?DATE] تاریخ"
+msgstr "تاریخ"
 
-# TRANSLATION
 # setup/holiday.xml?DESCRIPTION
-#: setup/holiday.xml?DESCRIPTION
+# setup/holiday.xml
+#: text - DESCRIPTION
 msgid "[setup/holiday.xml?DESCRIPTION] Description"
-msgstr "[setup/holiday.xml?DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/holiday.xml?TITLES
-#: setup/holiday.xml?TITLES
+# setup/holiday.xml
+#: title - TITLES
 msgid "Holiday"
 msgstr "تعطیلی"
 
-# TRANSLATION
 # setup/holidayList.xml?DATE
-#: setup/holidayList.xml?DATE
+# setup/holidayList.xml
+#: text - DATE
 msgid "[setup/holidayList.xml?DATE] Date"
-msgstr "[setup/holidayList.xml?DATE] تاریخ"
+msgstr "تاریخ"
 
-# TRANSLATION
 # setup/holidayList.xml?DELETE
-#: setup/holidayList.xml?DELETE
+# setup/holidayList.xml
+#: link - DELETE
 msgid "[setup/holidayList.xml?DELETE] Delete"
-msgstr "[setup/holidayList.xml?DELETE] حذف"
+msgstr "حذف"
 
-# TRANSLATION
 # setup/holidayList.xml?DESCRIPTION
-#: setup/holidayList.xml?DESCRIPTION
+# setup/holidayList.xml
+#: text - DESCRIPTION
 msgid "[setup/holidayList.xml?DESCRIPTION] Description"
-msgstr "[setup/holidayList.xml?DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/holidayList.xml?UID
-#: setup/holidayList.xml?UID
+# setup/holidayList.xml
+#: link - UID
 msgid "[setup/holidayList.xml?UID] UID"
-msgstr "[setup/holidayList.xml?UID] UID"
+msgstr "UID"
 
-# TRANSLATION
 # setup/holidayListMenu.xml?MNU_NEW
-#: setup/holidayListMenu.xml?MNU_NEW
+# setup/holidayListMenu.xml
+#: link - MNU_NEW
 msgid "[setup/holidayListMenu.xml?MNU_NEW] New"
-msgstr "[setup/holidayListMenu.xml?MNU_NEW] جدید"
+msgstr "جدید"
 
-# TRANSLATION
 # setup/language.xml?BSUBMIT
-#: setup/language.xml?BSUBMIT
+# setup/language.xml
+#: button - BSUBMIT
 msgid "[setup/language.xml?BSUBMIT] Add"
-msgstr "[setup/language.xml?BSUBMIT] افزودن"
+msgstr "افزودن"
 
-# TRANSLATION
 # setup/language.xml?LEX_VALUE
-#: setup/language.xml?LEX_VALUE
+# setup/language.xml
+#: dropdown - LEX_VALUE
 msgid "[setup/language.xml?LEX_VALUE] Language"
-msgstr "[setup/language.xml?LEX_VALUE] زبان"
+msgstr "زبان"
 
-# TRANSLATION
 # setup/language.xml?TITLE
-#: setup/language.xml?TITLE
+# setup/language.xml
+#: title - TITLE
 msgid "[setup/language.xml?TITLE] Language"
-msgstr "[setup/language.xml?TITLE] زبان"
+msgstr "زبان"
 
-# TRANSLATION
 # setup/language_table.xml?BSUBMIT
-#: setup/language_table.xml?BSUBMIT
+# setup/language_table.xml
+#: button - BSUBMIT
 msgid "[setup/language_table.xml?BSUBMIT] Add"
-msgstr "[setup/language_table.xml?BSUBMIT] افزودن"
+msgstr "افزودن"
 
-# TRANSLATION
 # setup/language_table.xml?LEX_VALUE
-#: setup/language_table.xml?LEX_VALUE
+# setup/language_table.xml
+#: dropdown - LEX_VALUE
 msgid "[setup/language_table.xml?LEX_VALUE] Language"
-msgstr "[setup/language_table.xml?LEX_VALUE] زبان"
+msgstr "زبان"
 
-# TRANSLATION
 # setup/language_table.xml?TITLE
-#: setup/language_table.xml?TITLE
+# setup/language_table.xml
+#: title - TITLE
 msgid "[setup/language_table.xml?TITLE] Language"
-msgstr "[setup/language_table.xml?TITLE] زبان"
+msgstr "زبان"
 
-# TRANSLATION
 # setup/languages.xml?LAN_ID
-#: setup/languages.xml?LAN_ID
+# setup/languages.xml
+#: text - LAN_ID
 msgid "[setup/languages.xml?LAN_ID] Code"
-msgstr "[setup/languages.xml?LAN_ID] کد"
+msgstr "کد"
 
-# TRANSLATION
 # setup/languages.xml?LAN_NAME
-#: setup/languages.xml?LAN_NAME
+# setup/languages.xml
+#: text - LAN_NAME
 msgid "[setup/languages.xml?LAN_NAME] Language"
-msgstr "[setup/languages.xml?LAN_NAME] زبان"
+msgstr "زبان"
 
-# TRANSLATION
 # setup/languages_ImportForm.xml?BTN_CANCEL
-#: setup/languages_ImportForm.xml?BTN_CANCEL
+# setup/languages_ImportForm.xml
+#: button - BTN_CANCEL
 msgid "[setup/languages_ImportForm.xml?BTN_CANCEL] Cancel"
-msgstr "[setup/languages_ImportForm.xml?BTN_CANCEL] لغو"
+msgstr "لغو"
 
-# TRANSLATION
 # setup/languages_ImportForm.xml?IMPORT
-#: setup/languages_ImportForm.xml?IMPORT
+# setup/languages_ImportForm.xml
+#: button - IMPORT
 msgid "[setup/languages_ImportForm.xml?IMPORT] Import"
-msgstr "[setup/languages_ImportForm.xml?IMPORT] وارد کردن"
+msgstr "وارد کردن"
 
-# TRANSLATION
 # setup/languages_ImportForm.xml?LANGUAGE_FILENAME
-#: setup/languages_ImportForm.xml?LANGUAGE_FILENAME
+# setup/languages_ImportForm.xml
+#: file - LANGUAGE_FILENAME
 msgid "[setup/languages_ImportForm.xml?LANGUAGE_FILENAME] File"
-msgstr "[setup/languages_ImportForm.xml?LANGUAGE_FILENAME] فایل"
+msgstr "فایل"
 
-# TRANSLATION
 # setup/languages_ImportForm.xml?TITLE1
-#: setup/languages_ImportForm.xml?TITLE1
+# setup/languages_ImportForm.xml
+#: title - TITLE1
 msgid "Import or Update Language"
 msgstr "وارد کردن یا به‌روزرسانی زبان"
 
-# TRANSLATION
 # setup/languages_Options.xml?MNU_IMPORT
-#: setup/languages_Options.xml?MNU_IMPORT
+# setup/languages_Options.xml
+#: link - MNU_IMPORT
 msgid "Import / Update"
 msgstr "وارد کردن / به‌روزرسانی"
 
-# TRANSLATION
 # setup/location.xml?ADD_CITY
-#: setup/location.xml?ADD_CITY
+# setup/location.xml
+#: button - ADD_CITY
 msgid "Add city"
 msgstr "افزودن شهر"
 
-# TRANSLATION
 # setup/location.xml?BSUBMIT
-#: setup/location.xml?BSUBMIT
+# setup/location.xml
+#: button - BSUBMIT
 msgid "[setup/location.xml?BSUBMIT] Add"
-msgstr "[setup/location.xml?BSUBMIT] افزودن"
+msgstr "افزودن"
 
-# TRANSLATION
 # setup/location.xml?DESCRIPTION
-#: setup/location.xml?DESCRIPTION
+# setup/location.xml
+#: text - DESCRIPTION
 msgid "Region"
 msgstr "منطقه"
 
-# TRANSLATION
 # setup/location.xml?TITLE
-#: setup/location.xml?TITLE
+# setup/location.xml
+#: title - TITLE
 msgid "[setup/location.xml?TITLE] Region"
-msgstr "[setup/location.xml?TITLE] منطقه"
+msgstr "منطقه"
 
-# TRANSLATION
 # setup/location.xml?USR_CITY
-#: setup/location.xml?USR_CITY
+# setup/location.xml
+#: dropdown - USR_CITY
 msgid "CITY"
 msgstr "شهر"
 
-# TRANSLATION
 # setup/location.xml?USR_COUNTRY
-#: setup/location.xml?USR_COUNTRY
+# setup/location.xml
+#: dropdown - USR_COUNTRY
 msgid "COUNTRIES"
 msgstr "کشورها"
 
-# TRANSLATION
 # setup/location.xml?USR_SUBMIT
-#: setup/location.xml?USR_SUBMIT
+# setup/location.xml
+#: submit - USR_SUBMIT
 msgid "ACCEPT"
 msgstr "تأیید"
 
-# TRANSLATION
 # setup/mail.xml?BSUBMIT
-#: setup/mail.xml?BSUBMIT
+# setup/mail.xml
+#: submit - BSUBMIT
 msgid "[setup/mail.xml?BSUBMIT] Save"
-msgstr "[setup/mail.xml?BSUBMIT] ذخیره"
+msgstr "ذخیره"
 
-# TRANSLATION
 # setup/mail.xml?BTEST
-#: setup/mail.xml?BTEST
+# setup/mail.xml
+#: button - BTEST
 msgid "[setup/mail.xml?BTEST] Test"
-msgstr "[setup/mail.xml?BTEST] آزمون"
+msgstr "آزمون"
 
-# TRANSLATION
 # setup/mail.xml?HOST
-#: setup/mail.xml?HOST
+# setup/mail.xml
+#: text - HOST
 msgid "[setup/mail.xml?HOST] Server"
-msgstr "[setup/mail.xml?HOST] سرور"
+msgstr "سرور"
 
-# TRANSLATION
 # setup/mail.xml?MAILER
-#: setup/mail.xml?MAILER
+# setup/mail.xml
+#: dropdown - MAILER
 msgid "[setup/mail.xml?MAILER] Method"
-msgstr "[setup/mail.xml?MAILER] روش"
+msgstr "روش"
 
-# TRANSLATION
 # setup/mail.xml?MAILER-mail
-#: setup/mail.xml?MAILER-mail
+# setup/mail.xml
+#: dropdown - MAILER - mail
 msgid "[setup/mail.xml?MAILER-mail]"
-msgstr "[setup/mail.xml?MAILER-mail]"
+msgstr ""
 
-# TRANSLATION
 # setup/mail.xml?MAILER-smtp
-#: setup/mail.xml?MAILER-smtp
+# setup/mail.xml
+#: dropdown - MAILER - smtp
 msgid "[setup/mail.xml?MAILER-smtp]"
-msgstr "[setup/mail.xml?MAILER-smtp]"
+msgstr ""
 
-# TRANSLATION
 # setup/mail.xml?PASSWORD
-#: setup/mail.xml?PASSWORD
+# setup/mail.xml
+#: password - PASSWORD
 msgid "[setup/mail.xml?PASSWORD] Password"
-msgstr "[setup/mail.xml?PASSWORD] رمز عبور"
+msgstr "رمز عبور"
 
-# TRANSLATION
 # setup/mail.xml?PORT
-#: setup/mail.xml?PORT
+# setup/mail.xml
+#: text - PORT
 msgid "[setup/mail.xml?PORT] Port"
-msgstr "[setup/mail.xml?PORT] درگاه"
+msgstr "درگاه"
 
-# TRANSLATION
 # setup/mail.xml?SMTPAUTH
-#: setup/mail.xml?SMTPAUTH
+# setup/mail.xml
+#: yesno - SMTPAUTH
 msgid "Requires Authentication"
 msgstr "الزام احراز هویت"
 
-# TRANSLATION
 # setup/mail.xml?TIMEOUT
-#: setup/mail.xml?TIMEOUT
+# setup/mail.xml
+#: text - TIMEOUT
 msgid "Timeout"
 msgstr "زمان پایان"
 
-# TRANSLATION
 # setup/mail.xml?TITLE6171
-#: setup/mail.xml?TITLE6171
+# setup/mail.xml
+#: title - TITLE6171
 msgid "Email Settings"
 msgstr "تنظیمات ایمیل"
 
-# TRANSLATION
 # setup/mail.xml?USERNAME
-#: setup/mail.xml?USERNAME
+# setup/mail.xml
+#: text - USERNAME
 msgid "Email Account"
 msgstr "حساب ایمیل"
 
-# TRANSLATION
 # setup/mailTest.xml?BTEST
-#: setup/mailTest.xml?BTEST
+# setup/mailTest.xml
+#: button - BTEST
 msgid "[setup/mailTest.xml?BTEST] Test"
-msgstr "[setup/mailTest.xml?BTEST] آزمون"
+msgstr "آزمون"
 
-# TRANSLATION
 # setup/mailTest.xml?TEST_EMAIL
-#: setup/mailTest.xml?TEST_EMAIL
+# setup/mailTest.xml
+#: text - TEST_EMAIL
 msgid "Send to :"
 msgstr "ارسال به:"
 
-# TRANSLATION
 # setup/mailTest.xml?TITLE6171
-#: setup/mailTest.xml?TITLE6171
+# setup/mailTest.xml
+#: title - TITLE6171
 msgid "[setup/mailTest.xml?TITLE6171] Test Email"
-msgstr "[setup/mailTest.xml?TITLE6171] ایمیل آزمایشی"
+msgstr "ایمیل آزمایشی"
 
-# TRANSLATION
 # setup/noProcesses.xml?MESSAGE
-#: setup/noProcesses.xml?MESSAGE
+# setup/noProcesses.xml
+#: subtitle - MESSAGE
 msgid "No processes available for this environment"
 msgstr "برای این محیط فرآیندی در دسترس نیست"
 
-# TRANSLATION
 # setup/pluginImport.xml?BTN_CANCEL
-#: setup/pluginImport.xml?BTN_CANCEL
+# setup/pluginImport.xml
+#: button - BTN_CANCEL
 msgid "[setup/pluginImport.xml?BTN_CANCEL] Cancel"
-msgstr "[setup/pluginImport.xml?BTN_CANCEL] لغو"
+msgstr "لغو"
 
-# TRANSLATION
 # setup/pluginImport.xml?MAX_FILE_SIZE
-#: setup/pluginImport.xml?MAX_FILE_SIZE
+# setup/pluginImport.xml
+#: edit - MAX_FILE_SIZE
 msgid "[setup/pluginImport.xml?MAX_FILE_SIZE] Maximum upload file size in bytes"
-msgstr "[setup/pluginImport.xml?MAX_FILE_SIZE] حداکثر اندازه فایل بارگذاری بر حسب بایت"
+msgstr "حداکثر اندازه فایل بارگذاری بر حسب بایت"
 
-# TRANSLATION
 # setup/pluginImport.xml?PLUGIN_FILENAME
-#: setup/pluginImport.xml?PLUGIN_FILENAME
+# setup/pluginImport.xml
+#: file - PLUGIN_FILENAME
 msgid "[setup/pluginImport.xml?PLUGIN_FILENAME] File"
-msgstr "[setup/pluginImport.xml?PLUGIN_FILENAME] فایل"
+msgstr "فایل"
 
-# TRANSLATION
 # setup/pluginImport.xml?SAVE
-#: setup/pluginImport.xml?SAVE
+# setup/pluginImport.xml
+#: button - SAVE
 msgid "[setup/pluginImport.xml?SAVE] Import"
-msgstr "[setup/pluginImport.xml?SAVE] وارد کردن"
+msgstr "وارد کردن"
 
-# TRANSLATION
 # setup/pluginImport.xml?TITLE1
-#: setup/pluginImport.xml?TITLE1
+# setup/pluginImport.xml
+#: title - TITLE1
 msgid "Import Plugin"
 msgstr "وارد کردن افزونه"
 
-# TRANSLATION
 # setup/pluginList.xml?description
-#: setup/pluginList.xml?description
+# setup/pluginList.xml
+#: text - description
 msgid "[setup/pluginList.xml?description] Description"
-msgstr "[setup/pluginList.xml?description] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/pluginList.xml?enabled
-#: setup/pluginList.xml?enabled
+# setup/pluginList.xml
+#: link - enabled
 msgid "[setup/pluginList.xml?enabled] "
-msgstr "[setup/pluginList.xml?enabled] "
+msgstr ""
 
-# TRANSLATION
 # setup/pluginList.xml?id
-#: setup/pluginList.xml?id
+# setup/pluginList.xml
+#: text - id
 msgid "[setup/pluginList.xml?id] #"
-msgstr "[setup/pluginList.xml?id] #"
+msgstr "#"
 
-# TRANSLATION
 # setup/pluginList.xml?linkEditValue
-#: setup/pluginList.xml?linkEditValue
+# setup/pluginList.xml
+#: link - linkEditValue
 msgid "[setup/pluginList.xml?linkEditValue] "
-msgstr "[setup/pluginList.xml?linkEditValue] "
+msgstr ""
 
-# TRANSLATION
 # setup/pluginList.xml?remove
-#: setup/pluginList.xml?remove
+# setup/pluginList.xml
+#: link - remove
 msgid "[setup/pluginList.xml?remove] "
-msgstr "[setup/pluginList.xml?remove] "
+msgstr ""
 
-# TRANSLATION
 # setup/pluginList.xml?title
-#: setup/pluginList.xml?title
+# setup/pluginList.xml
+#: text - title
 msgid "Name (File)"
-msgstr "[setup/pluginList.xml?name] نام (فایل)"
+msgstr "نام (فایل)"
 
-# TRANSLATION
 # setup/pluginList.xml?version
-#: setup/pluginList.xml?version
+# setup/pluginList.xml
+#: text - version
 msgid "[setup/pluginList.xml?version] Version"
-msgstr "[setup/pluginList.xml?version] نسخه"
+msgstr "نسخه"
 
-# TRANSLATION
 # setup/plugin_ListOptions.xml?MNU_IMPORT
-#: setup/plugin_ListOptions.xml?MNU_IMPORT
+# setup/plugin_ListOptions.xml
+#: link - MNU_IMPORT
 msgid "[setup/plugin_ListOptions.xml?MNU_IMPORT] Import"
-msgstr "[setup/plugin_ListOptions.xml?MNU_IMPORT] وارد کردن"
+msgstr "وارد کردن"
 
-# TRANSLATION
 # setup/showMessage.xml?MESSAGE
-#: setup/showMessage.xml?MESSAGE
+# setup/showMessage.xml
+#: caption - MESSAGE
 msgid "You can't delete this while it is in use."
 msgstr "نمی‌توانید این را در حالی که در حال استفاده است حذف کنید."
 
-# TRANSLATION
 # setup/showMessage.xml?TITLE
-#: setup/showMessage.xml?TITLE
+# setup/showMessage.xml
+#: title - TITLE
 msgid "[setup/showMessage.xml?TITLE] Error"
-msgstr "[setup/showMessage.xml?TITLE] خطا"
+msgstr "خطا"
 
-# TRANSLATION
 # setup/skinsList.xml?description
-#: setup/skinsList.xml?description
+# setup/skinsList.xml
+#: text - description
 msgid "[setup/skinsList.xml?description] Description"
-msgstr "[setup/skinsList.xml?description] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/skinsList.xml?id
-#: setup/skinsList.xml?id
+# setup/skinsList.xml
+#: text - id
 msgid "[setup/skinsList.xml?id] #"
-msgstr "[setup/skinsList.xml?id] #"
+msgstr "#"
 
-# TRANSLATION
 # setup/skinsList.xml?linkPackValue
-#: setup/skinsList.xml?linkPackValue
+# setup/skinsList.xml
+#: link - linkPackValue
 msgid "[setup/skinsList.xml?linkPackValue] "
-msgstr "[setup/skinsList.xml?linkPackValue] "
+msgstr ""
 
-# TRANSLATION
 # setup/skinsList.xml?name
-#: setup/skinsList.xml?name
+# setup/skinsList.xml
+#: text - name
 msgid "[setup/skinsList.xml?name] Name (File)"
-msgstr "[setup/skinsList.xml?name] نام (فایل)"
+msgstr "نام (فایل)"
 
-# TRANSLATION
 # setup/skinsList.xml?version
-#: setup/skinsList.xml?version
+# setup/skinsList.xml
+#: text - version
 msgid "[setup/skinsList.xml?version] Version"
-msgstr "[setup/skinsList.xml?version] نسخه"
+msgstr "نسخه"
 
-# TRANSLATION
 # setup/skinsListOptions.xml?MNU_NEW
-#: setup/skinsListOptions.xml?MNU_NEW
+# setup/skinsListOptions.xml
+#: link - MNU_NEW
 msgid "[setup/skinsListOptions.xml?MNU_NEW] New"
-msgstr "[setup/skinsListOptions.xml?MNU_NEW] جدید"
+msgstr "جدید"
 
-# TRANSLATION
 # setup/skinsNew.xml?BTN_CANCEL
-#: setup/skinsNew.xml?BTN_CANCEL
+# setup/skinsNew.xml
+#: button - BTN_CANCEL
 msgid "[setup/skinsNew.xml?BTN_CANCEL] Cancel"
-msgstr "[setup/skinsNew.xml?BTN_CANCEL] لغو"
+msgstr "لغو"
 
-# TRANSLATION
 # setup/skinsNew.xml?DESCRIPTION
-#: setup/skinsNew.xml?DESCRIPTION
+# setup/skinsNew.xml
+#: textarea - DESCRIPTION
 msgid "[setup/skinsNew.xml?DESCRIPTION] Description"
-msgstr "[setup/skinsNew.xml?DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/skinsNew.xml?NAME
-#: setup/skinsNew.xml?NAME
+# setup/skinsNew.xml
+#: text - NAME
 msgid "Skin Name"
 msgstr "نام پوسته"
 
-# TRANSLATION
 # setup/skinsNew.xml?SAVE
-#: setup/skinsNew.xml?SAVE
+# setup/skinsNew.xml
+#: button - SAVE
 msgid "[setup/skinsNew.xml?SAVE] Continue"
-msgstr "[setup/skinsNew.xml?SAVE] ادامه"
+msgstr "ادامه"
 
-# TRANSLATION
 # setup/skinsNew.xml?TITLE1
-#: setup/skinsNew.xml?TITLE1
+# setup/skinsNew.xml
+#: title - TITLE1
 msgid "[setup/skinsNew.xml?TITLE1] New Skin"
-msgstr "[setup/skinsNew.xml?TITLE1] پوسته جدید"
+msgstr "پوسته جدید"
 
-# TRANSLATION
 # setup/upgrade.xml?MAX_FILE_SIZE
-#: setup/upgrade.xml?MAX_FILE_SIZE
+# setup/upgrade.xml
+#: edit - MAX_FILE_SIZE
 msgid "[setup/upgrade.xml?MAX_FILE_SIZE] Maximum upload file size in bytes"
-msgstr "[setup/upgrade.xml?MAX_FILE_SIZE] حداکثر اندازه فایل بارگذاری بر حسب بایت"
+msgstr "حداکثر اندازه فایل بارگذاری بر حسب بایت"
 
-# TRANSLATION
 # setup/upgrade.xml?PM_VERSION
-#: setup/upgrade.xml?PM_VERSION
+# setup/upgrade.xml
+#: edit - PM_VERSION
 msgid "Current Version"
 msgstr "نسخه جاری"
 
-# TRANSLATION
 # setup/upgrade.xml?TITLE1
-#: setup/upgrade.xml?TITLE1
+# setup/upgrade.xml
+#: title - TITLE1
 msgid "[setup/upgrade.xml?TITLE1] Upgrade System"
-msgstr "[setup/upgrade.xml?TITLE1] ارتقای سیستم"
+msgstr "ارتقای سیستم"
 
-# TRANSLATION
 # setup/upgrade.xml?UPGRADE
-#: setup/upgrade.xml?UPGRADE
+# setup/upgrade.xml
+#: button - UPGRADE
 msgid "[setup/upgrade.xml?UPGRADE] Upgrade"
-msgstr "[setup/upgrade.xml?UPGRADE] ارتقا"
+msgstr "ارتقا"
 
-# TRANSLATION
 # setup/upgrade.xml?UPGRADE_FILENAME
-#: setup/upgrade.xml?UPGRADE_FILENAME
+# setup/upgrade.xml
+#: file - UPGRADE_FILENAME
 msgid "[setup/upgrade.xml?UPGRADE_FILENAME] File"
-msgstr "[setup/upgrade.xml?UPGRADE_FILENAME] فایل"
+msgstr "فایل"
 
-# TRANSLATION
 # setup/uplogo.xml?LOGO_FILENAME
-#: setup/uplogo.xml?LOGO_FILENAME
+# setup/uplogo.xml
+#: file - LOGO_FILENAME
 msgid "[setup/uplogo.xml?LOGO_FILENAME] File"
-msgstr "[setup/uplogo.xml?LOGO_FILENAME] فایل"
+msgstr "فایل"
 
-# TRANSLATION
 # setup/uplogo.xml?LOGO_SAVE
-#: setup/uplogo.xml?LOGO_SAVE
+# setup/uplogo.xml
+#: button - LOGO_SAVE
 msgid "[setup/uplogo.xml?LOGO_SAVE] Upload"
-msgstr "[setup/uplogo.xml?LOGO_SAVE] بارگذاری"
+msgstr "بارگذاری"
 
-# TRANSLATION
 # setup/uplogo.xml?MAX_FILE_SIZE
-#: setup/uplogo.xml?MAX_FILE_SIZE
+# setup/uplogo.xml
+#: edit - MAX_FILE_SIZE
 msgid "[setup/uplogo.xml?MAX_FILE_SIZE] Maximum upload file size in bytes"
-msgstr "[setup/uplogo.xml?MAX_FILE_SIZE] حداکثر اندازه فایل بارگذاری بر حسب بایت"
+msgstr "حداکثر اندازه فایل بارگذاری بر حسب بایت"
 
-# TRANSLATION
 # setup/uplogo.xml?TITLE1
-#: setup/uplogo.xml?TITLE1
+# setup/uplogo.xml
+#: title - TITLE1
 msgid "Upload your logo"
 msgstr "بارگذاری لوگوی شما"
 
-# TRANSLATION
 # setup/uplogoList.xml?LOG0_DESCRIPTION
-#: setup/uplogoList.xml?LOG0_DESCRIPTION
+# setup/uplogoList.xml
+#: text - LOG0_DESCRIPTION
 msgid "[setup/uplogoList.xml?LOG0_DESCRIPTION] Description"
-msgstr "[setup/uplogoList.xml?LOG0_DESCRIPTION] توضیح"
+msgstr "توضیح"
 
-# TRANSLATION
 # setup/uplogoList.xml?LOG0_IMACE
-#: setup/uplogoList.xml?LOG0_IMACE
+# setup/uplogoList.xml
+#: text - LOG0_IMACE
 msgid "Imagen"
 msgstr "تصویر"
 
-# TRANSLATION
 # setup/uplogoList.xml?LOG0_NAME
-#: setup/uplogoList.xml?LOG0_NAME
+# setup/uplogoList.xml
+#: text - LOG0_NAME
 msgid "[setup/uplogoList.xml?LOG0_NAME] name"
-msgstr "[setup/uplogoList.xml?LOG0_NAME] نام"
+msgstr "نام"
 
-# TRANSLATION
 # setup/uplogoList.xml?LOG0_SIZE
-#: setup/uplogoList.xml?LOG0_SIZE
+# setup/uplogoList.xml
+#: text - LOG0_SIZE
 msgid "size"
 msgstr "اندازه"
 
-# TRANSLATION
 # setup/uplogoList.xml?LOGO_SELECTED
-#: setup/uplogoList.xml?LOGO_SELECTED
+# setup/uplogoList.xml
+#: text - LOGO_SELECTED
 msgid "[setup/uplogoList.xml?LOGO_SELECTED] "
-msgstr "[setup/uplogoList.xml?LOGO_SELECTED] "
+msgstr ""
 
-# TRANSLATION
 # setup/uplogoList.xml?id
-#: setup/uplogoList.xml?id
+# setup/uplogoList.xml
+#: text - id
 msgid "No."
 msgstr "شماره"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?WSDL
-#: setup/webServicesDetails.xml?WSDL
+# setup/webServicesDetails.xml
+#: text - WSDL
 msgid "WSDL URI"
 msgstr "نشانی WSDL"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?WSID
-#: setup/webServicesDetails.xml?WSID
+# setup/webServicesDetails.xml
+#: text - WSID
 msgid "Session ID"
 msgstr "شناسه نشست"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?WS_HOST
-#: setup/webServicesDetails.xml?WS_HOST
+# setup/webServicesDetails.xml
+#: text - WS_HOST
 msgid "[setup/webServicesDetails.xml?WS_HOST] Server"
-msgstr "[setup/webServicesDetails.xml?WS_HOST] سرور"
+msgstr "سرور"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?WS_PORT
-#: setup/webServicesDetails.xml?WS_PORT
+# setup/webServicesDetails.xml
+#: text - WS_PORT
 msgid "[setup/webServicesDetails.xml?WS_PORT] Port"
-msgstr "[setup/webServicesDetails.xml?WS_PORT] درگاه"
+msgstr "درگاه"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?WS_WORKSPACE
-#: setup/webServicesDetails.xml?WS_WORKSPACE
+# setup/webServicesDetails.xml
+#: text - WS_WORKSPACE
 msgid "[setup/webServicesDetails.xml?WS_WORKSPACE] Workspace"
-msgstr "[setup/webServicesDetails.xml?WS_WORKSPACE] فضای کاری"
+msgstr "فضای کاری"
 
-# TRANSLATION
 # setup/webServicesDetails.xml?title2
-#: setup/webServicesDetails.xml?title2
+# setup/webServicesDetails.xml
+#: title - title2
 msgid "WSDL Server Details"
 msgstr "جزئیات سرور WSDL"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?BTN_CANCEL
-#: setup/webServicesSetup.xml?BTN_CANCEL
+# setup/webServicesSetup.xml
+#: button - BTN_CANCEL
 msgid "[setup/webServicesSetup.xml?BTN_CANCEL] Cancel"
-msgstr "[setup/webServicesSetup.xml?BTN_CANCEL] لغو"
+msgstr "لغو"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?WS_HOST
-#: setup/webServicesSetup.xml?WS_HOST
+# setup/webServicesSetup.xml
+#: text - WS_HOST
 msgid "Server Host"
 msgstr "میزبان سرور"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?WS_PORT
-#: setup/webServicesSetup.xml?WS_PORT
+# setup/webServicesSetup.xml
+#: text - WS_PORT
 msgid "[setup/webServicesSetup.xml?WS_PORT] Port"
-msgstr "[setup/webServicesSetup.xml?WS_PORT] درگاه"
+msgstr "درگاه"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?WS_PROTOCOL
-#: setup/webServicesSetup.xml?WS_PROTOCOL
+# setup/webServicesSetup.xml
+#: dropdown - WS_PROTOCOL
 msgid "Protocol"
 msgstr "پروتکل"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?WS_WORKSPACE
-#: setup/webServicesSetup.xml?WS_WORKSPACE
+# setup/webServicesSetup.xml
+#: text - WS_WORKSPACE
 msgid "[setup/webServicesSetup.xml?WS_WORKSPACE] Workspace"
-msgstr "[setup/webServicesSetup.xml?WS_WORKSPACE] فضای کاری"
+msgstr "فضای کاری"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?button
-#: setup/webServicesSetup.xml?button
+# setup/webServicesSetup.xml
+#: submit - button
 msgid "[setup/webServicesSetup.xml?button] Save"
-msgstr "[setup/webServicesSetup.xml?button] ذخیره"
+msgstr "ذخیره"
 
-# TRANSLATION
 # setup/webServicesSetup.xml?title2
-#: setup/webServicesSetup.xml?title2
+# setup/webServicesSetup.xml
+#: title - title2
 msgid "Client Setup"
 msgstr "پیکربندی کلاینت"
 
-# TRANSLATION
 # setup/weekend.xml?BSUBMIT
-#: setup/weekend.xml?BSUBMIT
+# setup/weekend.xml
+#: button - BSUBMIT
 msgid "[setup/weekend.xml?BSUBMIT] Accept"
-msgstr "[setup/weekend.xml?BSUBMIT] تأیید"
+msgstr "تأیید"
 
-# TRANSLATION
 # setup/weekend.xml?FRIDAY
-#: setup/weekend.xml?FRIDAY
+# setup/weekend.xml
+#: checkbox - FRIDAY
 msgid "[setup/weekend.xml?FRIDAY] Friday"
-msgstr "[setup/weekend.xml?FRIDAY] جمعه"
+msgstr "جمعه"
 
-# TRANSLATION
 # setup/weekend.xml?MONDAY
-#: setup/weekend.xml?MONDAY
+# setup/weekend.xml
+#: checkbox - MONDAY
 msgid "[setup/weekend.xml?MONDAY] Monday"
-msgstr "[setup/weekend.xml?MONDAY] دوشنبه"
+msgstr "دوشنبه"
 
-# TRANSLATION
 # setup/weekend.xml?SATURDAY
-#: setup/weekend.xml?SATURDAY
+# setup/weekend.xml
+#: checkbox - SATURDAY
 msgid "[setup/weekend.xml?SATURDAY] Saturday"
-msgstr "[setup/weekend.xml?SATURDAY] شنبه"
+msgstr "شنبه"
 
-# TRANSLATION
 # setup/weekend.xml?SUNDAY
-#: setup/weekend.xml?SUNDAY
+# setup/weekend.xml
+#: checkbox - SUNDAY
 msgid "[setup/weekend.xml?SUNDAY] Sunday"
-msgstr "[setup/weekend.xml?SUNDAY] یکشنبه"
+msgstr "یکشنبه"
 
-# TRANSLATION
 # setup/weekend.xml?THURSDAY
-#: setup/weekend.xml?THURSDAY
+# setup/weekend.xml
+#: checkbox - THURSDAY
 msgid "[setup/weekend.xml?THURSDAY] Thursday"
-msgstr "[setup/weekend.xml?THURSDAY] پنجشنبه"
+msgstr "پنجشنبه"
 
-# TRANSLATION
 # setup/weekend.xml?TITLE9592
-#: setup/weekend.xml?TITLE9592
+# setup/weekend.xml
+#: title - TITLE9592
 msgid "Weekend days"
 msgstr "روزهای تعطیل هفتگی"
 
-# TRANSLATION
 # setup/weekend.xml?TUESDAY
-#: setup/weekend.xml?TUESDAY
+# setup/weekend.xml
+#: checkbox - TUESDAY
 msgid "[setup/weekend.xml?TUESDAY] Tuesday"
-msgstr "[setup/weekend.xml?TUESDAY] سه‌شنبه"
+msgstr "سه‌شنبه"
 
-# TRANSLATION
 # setup/weekend.xml?WEDNESDAY
-#: setup/weekend.xml?WEDNESDAY
+# setup/weekend.xml
+#: checkbox - WEDNESDAY
 msgid "[setup/weekend.xml?WEDNESDAY] Wednesday"
-msgstr "[setup/weekend.xml?WEDNESDAY] چهارشنبه"
+msgstr "چهارشنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?BSUBMIT
-#: setup/workPeriod.xml?BSUBMIT
+# setup/workPeriod.xml
+#: submit - BSUBMIT
 msgid "[setup/workPeriod.xml?BSUBMIT] Accept"
-msgstr "[setup/workPeriod.xml?BSUBMIT] تأیید"
+msgstr "تأیید"
 
-# TRANSLATION
 # setup/workPeriod.xml?FRIDAY
-#: setup/workPeriod.xml?FRIDAY
+# setup/workPeriod.xml
+#: checkbox - FRIDAY
 msgid "[setup/workPeriod.xml?FRIDAY] Friday"
-msgstr "[setup/workPeriod.xml?FRIDAY] جمعه"
+msgstr "جمعه"
 
-# TRANSLATION
 # setup/workPeriod.xml?MONDAY
-#: setup/workPeriod.xml?MONDAY
+# setup/workPeriod.xml
+#: checkbox - MONDAY
 msgid "[setup/workPeriod.xml?MONDAY] Monday"
-msgstr "[setup/workPeriod.xml?MONDAY] دوشنبه"
+msgstr "دوشنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?SATURDAY
-#: setup/workPeriod.xml?SATURDAY
+# setup/workPeriod.xml
+#: checkbox - SATURDAY
 msgid "[setup/workPeriod.xml?SATURDAY] Saturday"
-msgstr "[setup/workPeriod.xml?SATURDAY] شنبه"
+msgstr "شنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?SUNDAY
-#: setup/workPeriod.xml?SUNDAY
+# setup/workPeriod.xml
+#: checkbox - SUNDAY
 msgid "[setup/workPeriod.xml?SUNDAY] Sunday"
-msgstr "[setup/workPeriod.xml?SUNDAY] یکشنبه"
+msgstr "یکشنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?THURSDAY
-#: setup/workPeriod.xml?THURSDAY
+# setup/workPeriod.xml
+#: checkbox - THURSDAY
 msgid "[setup/workPeriod.xml?THURSDAY] Thursday"
-msgstr "[setup/workPeriod.xml?THURSDAY] پنجشنبه"
+msgstr "پنجشنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?TITLE9592
-#: setup/workPeriod.xml?TITLE9592
+# setup/workPeriod.xml
+#: title - TITLE9592
 msgid "[setup/workPeriod.xml?TITLE9592] Weekend days"
-msgstr "[setup/workPeriod.xml?TITLE9592] روزهای تعطیل هفتگی"
+msgstr "روزهای تعطیل هفتگی"
 
-# TRANSLATION
 # setup/workPeriod.xml?TUESDAY
-#: setup/workPeriod.xml?TUESDAY
+# setup/workPeriod.xml
+#: checkbox - TUESDAY
 msgid "[setup/workPeriod.xml?TUESDAY] Tuesday"
-msgstr "[setup/workPeriod.xml?TUESDAY] سه‌شنبه"
+msgstr "سه‌شنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?WEDNESDAY
-#: setup/workPeriod.xml?WEDNESDAY
+# setup/workPeriod.xml
+#: checkbox - WEDNESDAY
 msgid "[setup/workPeriod.xml?WEDNESDAY] Wednesday"
-msgstr "[setup/workPeriod.xml?WEDNESDAY] چهارشنبه"
+msgstr "چهارشنبه"
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1
-#: setup/workPeriod.xml?endPeriod1
+# setup/workPeriod.xml
+#: dropdown - endPeriod1
 msgid "End time"
 msgstr "زمان پایان"
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-
-#: setup/workPeriod.xml?endPeriod1-
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 -
 msgid "[setup/workPeriod.xml?endPeriod1-]"
-msgstr "[setup/workPeriod.xml?endPeriod1-]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1020
-#: setup/workPeriod.xml?endPeriod1-1020
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1020
 msgid "[setup/workPeriod.xml?endPeriod1-1020]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1020]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1050
-#: setup/workPeriod.xml?endPeriod1-1050
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1050
 msgid "[setup/workPeriod.xml?endPeriod1-1050]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1050]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1080
-#: setup/workPeriod.xml?endPeriod1-1080
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1080
 msgid "[setup/workPeriod.xml?endPeriod1-1080]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1080]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1110
-#: setup/workPeriod.xml?endPeriod1-1110
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1110
 msgid "[setup/workPeriod.xml?endPeriod1-1110]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1110]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1140
-#: setup/workPeriod.xml?endPeriod1-1140
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1140
 msgid "[setup/workPeriod.xml?endPeriod1-1140]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1140]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1170
-#: setup/workPeriod.xml?endPeriod1-1170
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1170
 msgid "[setup/workPeriod.xml?endPeriod1-1170]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1170]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-120
-#: setup/workPeriod.xml?endPeriod1-120
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 120
 msgid "[setup/workPeriod.xml?endPeriod1-120]"
-msgstr "[setup/workPeriod.xml?endPeriod1-120]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1200
-#: setup/workPeriod.xml?endPeriod1-1200
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1200
 msgid "[setup/workPeriod.xml?endPeriod1-1200]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1200]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1230
-#: setup/workPeriod.xml?endPeriod1-1230
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1230
 msgid "[setup/workPeriod.xml?endPeriod1-1230]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1230]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1260
-#: setup/workPeriod.xml?endPeriod1-1260
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1260
 msgid "[setup/workPeriod.xml?endPeriod1-1260]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1260]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1290
-#: setup/workPeriod.xml?endPeriod1-1290
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1290
 msgid "[setup/workPeriod.xml?endPeriod1-1290]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1290]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1320
-#: setup/workPeriod.xml?endPeriod1-1320
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1320
 msgid "[setup/workPeriod.xml?endPeriod1-1320]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1320]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1350
-#: setup/workPeriod.xml?endPeriod1-1350
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1350
 msgid "[setup/workPeriod.xml?endPeriod1-1350]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1350]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1380
-#: setup/workPeriod.xml?endPeriod1-1380
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1380
 msgid "[setup/workPeriod.xml?endPeriod1-1380]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1380]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-1410
-#: setup/workPeriod.xml?endPeriod1-1410
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 1410
 msgid "[setup/workPeriod.xml?endPeriod1-1410]"
-msgstr "[setup/workPeriod.xml?endPeriod1-1410]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-150
-#: setup/workPeriod.xml?endPeriod1-150
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 150
 msgid "[setup/workPeriod.xml?endPeriod1-150]"
-msgstr "[setup/workPeriod.xml?endPeriod1-150]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-180
-#: setup/workPeriod.xml?endPeriod1-180
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 180
 msgid "[setup/workPeriod.xml?endPeriod1-180]"
-msgstr "[setup/workPeriod.xml?endPeriod1-180]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-210
-#: setup/workPeriod.xml?endPeriod1-210
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 210
 msgid "[setup/workPeriod.xml?endPeriod1-210]"
-msgstr "[setup/workPeriod.xml?endPeriod1-210]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-240
-#: setup/workPeriod.xml?endPeriod1-240
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 240
 msgid "[setup/workPeriod.xml?endPeriod1-240]"
-msgstr "[setup/workPeriod.xml?endPeriod1-240]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-270
-#: setup/workPeriod.xml?endPeriod1-270
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 270
 msgid "[setup/workPeriod.xml?endPeriod1-270]"
-msgstr "[setup/workPeriod.xml?endPeriod1-270]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-30
-#: setup/workPeriod.xml?endPeriod1-30
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 30
 msgid "[setup/workPeriod.xml?endPeriod1-30]"
-msgstr "[setup/workPeriod.xml?endPeriod1-30]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-300
-#: setup/workPeriod.xml?endPeriod1-300
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 300
 msgid "[setup/workPeriod.xml?endPeriod1-300]"
-msgstr "[setup/workPeriod.xml?endPeriod1-300]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-330
-#: setup/workPeriod.xml?endPeriod1-330
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 330
 msgid "[setup/workPeriod.xml?endPeriod1-330]"
-msgstr "[setup/workPeriod.xml?endPeriod1-330]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-360
-#: setup/workPeriod.xml?endPeriod1-360
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 360
 msgid "[setup/workPeriod.xml?endPeriod1-360]"
-msgstr "[setup/workPeriod.xml?endPeriod1-360]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-390
-#: setup/workPeriod.xml?endPeriod1-390
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 390
 msgid "[setup/workPeriod.xml?endPeriod1-390]"
-msgstr "[setup/workPeriod.xml?endPeriod1-390]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-420
-#: setup/workPeriod.xml?endPeriod1-420
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 420
 msgid "[setup/workPeriod.xml?endPeriod1-420]"
-msgstr "[setup/workPeriod.xml?endPeriod1-420]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-450
-#: setup/workPeriod.xml?endPeriod1-450
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 450
 msgid "[setup/workPeriod.xml?endPeriod1-450]"
-msgstr "[setup/workPeriod.xml?endPeriod1-450]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-480
-#: setup/workPeriod.xml?endPeriod1-480
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 480
 msgid "[setup/workPeriod.xml?endPeriod1-480]"
-msgstr "[setup/workPeriod.xml?endPeriod1-480]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-510
-#: setup/workPeriod.xml?endPeriod1-510
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 510
 msgid "[setup/workPeriod.xml?endPeriod1-510]"
-msgstr "[setup/workPeriod.xml?endPeriod1-510]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-540
-#: setup/workPeriod.xml?endPeriod1-540
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 540
 msgid "[setup/workPeriod.xml?endPeriod1-540]"
-msgstr "[setup/workPeriod.xml?endPeriod1-540]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-570
-#: setup/workPeriod.xml?endPeriod1-570
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 570
 msgid "[setup/workPeriod.xml?endPeriod1-570]"
-msgstr "[setup/workPeriod.xml?endPeriod1-570]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-60
-#: setup/workPeriod.xml?endPeriod1-60
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 60
 msgid "[setup/workPeriod.xml?endPeriod1-60]"
-msgstr "[setup/workPeriod.xml?endPeriod1-60]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-600
-#: setup/workPeriod.xml?endPeriod1-600
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 600
 msgid "[setup/workPeriod.xml?endPeriod1-600]"
-msgstr "[setup/workPeriod.xml?endPeriod1-600]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-630
-#: setup/workPeriod.xml?endPeriod1-630
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 630
 msgid "[setup/workPeriod.xml?endPeriod1-630]"
-msgstr "[setup/workPeriod.xml?endPeriod1-630]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-660
-#: setup/workPeriod.xml?endPeriod1-660
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 660
 msgid "[setup/workPeriod.xml?endPeriod1-660]"
-msgstr "[setup/workPeriod.xml?endPeriod1-660]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-690
-#: setup/workPeriod.xml?endPeriod1-690
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 690
 msgid "[setup/workPeriod.xml?endPeriod1-690]"
-msgstr "[setup/workPeriod.xml?endPeriod1-690]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-720
-#: setup/workPeriod.xml?endPeriod1-720
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 720
 msgid "[setup/workPeriod.xml?endPeriod1-720]"
-msgstr "[setup/workPeriod.xml?endPeriod1-720]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-750
-#: setup/workPeriod.xml?endPeriod1-750
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 750
 msgid "[setup/workPeriod.xml?endPeriod1-750]"
-msgstr "[setup/workPeriod.xml?endPeriod1-750]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-780
-#: setup/workPeriod.xml?endPeriod1-780
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 780
 msgid "[setup/workPeriod.xml?endPeriod1-780]"
-msgstr "[setup/workPeriod.xml?endPeriod1-780]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-810
-#: setup/workPeriod.xml?endPeriod1-810
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 810
 msgid "[setup/workPeriod.xml?endPeriod1-810]"
-msgstr "[setup/workPeriod.xml?endPeriod1-810]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-840
-#: setup/workPeriod.xml?endPeriod1-840
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 840
 msgid "[setup/workPeriod.xml?endPeriod1-840]"
-msgstr "[setup/workPeriod.xml?endPeriod1-840]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-870
-#: setup/workPeriod.xml?endPeriod1-870
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 870
 msgid "[setup/workPeriod.xml?endPeriod1-870]"
-msgstr "[setup/workPeriod.xml?endPeriod1-870]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-90
-#: setup/workPeriod.xml?endPeriod1-90
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 90
 msgid "[setup/workPeriod.xml?endPeriod1-90]"
-msgstr "[setup/workPeriod.xml?endPeriod1-90]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-900
-#: setup/workPeriod.xml?endPeriod1-900
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 900
 msgid "[setup/workPeriod.xml?endPeriod1-900]"
-msgstr "[setup/workPeriod.xml?endPeriod1-900]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-930
-#: setup/workPeriod.xml?endPeriod1-930
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 930
 msgid "[setup/workPeriod.xml?endPeriod1-930]"
-msgstr "[setup/workPeriod.xml?endPeriod1-930]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-960
-#: setup/workPeriod.xml?endPeriod1-960
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 960
 msgid "[setup/workPeriod.xml?endPeriod1-960]"
-msgstr "[setup/workPeriod.xml?endPeriod1-960]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod1-990
-#: setup/workPeriod.xml?endPeriod1-990
+# setup/workPeriod.xml
+#: dropdown - endPeriod1 - 990
 msgid "[setup/workPeriod.xml?endPeriod1-990]"
-msgstr "[setup/workPeriod.xml?endPeriod1-990]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2
-#: setup/workPeriod.xml?endPeriod2
+# setup/workPeriod.xml
+#: dropdown - endPeriod2
 msgid "[setup/workPeriod.xml?endPeriod2] End time"
-msgstr "[setup/workPeriod.xml?endPeriod2] زمان پایان"
+msgstr "زمان پایان"
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-
-#: setup/workPeriod.xml?endPeriod2-
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 -
 msgid "[setup/workPeriod.xml?endPeriod2-]"
-msgstr "[setup/workPeriod.xml?endPeriod2-]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1020
-#: setup/workPeriod.xml?endPeriod2-1020
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1020
 msgid "[setup/workPeriod.xml?endPeriod2-1020]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1020]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1050
-#: setup/workPeriod.xml?endPeriod2-1050
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1050
 msgid "[setup/workPeriod.xml?endPeriod2-1050]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1050]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1080
-#: setup/workPeriod.xml?endPeriod2-1080
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1080
 msgid "[setup/workPeriod.xml?endPeriod2-1080]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1080]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1110
-#: setup/workPeriod.xml?endPeriod2-1110
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1110
 msgid "[setup/workPeriod.xml?endPeriod2-1110]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1110]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1140
-#: setup/workPeriod.xml?endPeriod2-1140
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1140
 msgid "[setup/workPeriod.xml?endPeriod2-1140]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1140]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1170
-#: setup/workPeriod.xml?endPeriod2-1170
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1170
 msgid "[setup/workPeriod.xml?endPeriod2-1170]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1170]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-120
-#: setup/workPeriod.xml?endPeriod2-120
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 120
 msgid "[setup/workPeriod.xml?endPeriod2-120]"
-msgstr "[setup/workPeriod.xml?endPeriod2-120]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1200
-#: setup/workPeriod.xml?endPeriod2-1200
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1200
 msgid "[setup/workPeriod.xml?endPeriod2-1200]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1200]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1230
-#: setup/workPeriod.xml?endPeriod2-1230
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1230
 msgid "[setup/workPeriod.xml?endPeriod2-1230]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1230]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1260
-#: setup/workPeriod.xml?endPeriod2-1260
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1260
 msgid "[setup/workPeriod.xml?endPeriod2-1260]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1260]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1290
-#: setup/workPeriod.xml?endPeriod2-1290
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1290
 msgid "[setup/workPeriod.xml?endPeriod2-1290]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1290]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1320
-#: setup/workPeriod.xml?endPeriod2-1320
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1320
 msgid "[setup/workPeriod.xml?endPeriod2-1320]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1320]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1350
-#: setup/workPeriod.xml?endPeriod2-1350
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1350
 msgid "[setup/workPeriod.xml?endPeriod2-1350]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1350]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1380
-#: setup/workPeriod.xml?endPeriod2-1380
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1380
 msgid "[setup/workPeriod.xml?endPeriod2-1380]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1380]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-1410
-#: setup/workPeriod.xml?endPeriod2-1410
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1410
 msgid "[setup/workPeriod.xml?endPeriod2-1410]"
-msgstr "[setup/workPeriod.xml?endPeriod2-1410]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-150
-#: setup/workPeriod.xml?endPeriod2-150
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 150
 msgid "[setup/workPeriod.xml?endPeriod2-150]"
-msgstr "[setup/workPeriod.xml?endPeriod2-150]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-180
-#: setup/workPeriod.xml?endPeriod2-180
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 180
 msgid "[setup/workPeriod.xml?endPeriod2-180]"
-msgstr "[setup/workPeriod.xml?endPeriod2-180]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-210
-#: setup/workPeriod.xml?endPeriod2-210
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 210
 msgid "[setup/workPeriod.xml?endPeriod2-210]"
-msgstr "[setup/workPeriod.xml?endPeriod2-210]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-240
-#: setup/workPeriod.xml?endPeriod2-240
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 240
 msgid "[setup/workPeriod.xml?endPeriod2-240]"
-msgstr "[setup/workPeriod.xml?endPeriod2-240]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-270
-#: setup/workPeriod.xml?endPeriod2-270
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 270
 msgid "[setup/workPeriod.xml?endPeriod2-270]"
-msgstr "[setup/workPeriod.xml?endPeriod2-270]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-30
-#: setup/workPeriod.xml?endPeriod2-30
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 30
 msgid "[setup/workPeriod.xml?endPeriod2-30]"
-msgstr "[setup/workPeriod.xml?endPeriod2-30]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-300
-#: setup/workPeriod.xml?endPeriod2-300
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 300
 msgid "[setup/workPeriod.xml?endPeriod2-300]"
-msgstr "[setup/workPeriod.xml?endPeriod2-300]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-330
-#: setup/workPeriod.xml?endPeriod2-330
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 330
 msgid "[setup/workPeriod.xml?endPeriod2-330]"
-msgstr "[setup/workPeriod.xml?endPeriod2-330]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-360
-#: setup/workPeriod.xml?endPeriod2-360
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 360
 msgid "[setup/workPeriod.xml?endPeriod2-360]"
-msgstr "[setup/workPeriod.xml?endPeriod2-360]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-390
-#: setup/workPeriod.xml?endPeriod2-390
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 390
 msgid "[setup/workPeriod.xml?endPeriod2-390]"
-msgstr "[setup/workPeriod.xml?endPeriod2-390]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-420
-#: setup/workPeriod.xml?endPeriod2-420
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 420
 msgid "[setup/workPeriod.xml?endPeriod2-420]"
-msgstr "[setup/workPeriod.xml?endPeriod2-420]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-450
-#: setup/workPeriod.xml?endPeriod2-450
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 450
 msgid "[setup/workPeriod.xml?endPeriod2-450]"
-msgstr "[setup/workPeriod.xml?endPeriod2-450]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-480
-#: setup/workPeriod.xml?endPeriod2-480
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 480
 msgid "[setup/workPeriod.xml?endPeriod2-480]"
-msgstr "[setup/workPeriod.xml?endPeriod2-480]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-510
-#: setup/workPeriod.xml?endPeriod2-510
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 510
 msgid "[setup/workPeriod.xml?endPeriod2-510]"
-msgstr "[setup/workPeriod.xml?endPeriod2-510]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-540
-#: setup/workPeriod.xml?endPeriod2-540
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 540
 msgid "[setup/workPeriod.xml?endPeriod2-540]"
-msgstr "[setup/workPeriod.xml?endPeriod2-540]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-570
-#: setup/workPeriod.xml?endPeriod2-570
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 570
 msgid "[setup/workPeriod.xml?endPeriod2-570]"
-msgstr "[setup/workPeriod.xml?endPeriod2-570]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-60
-#: setup/workPeriod.xml?endPeriod2-60
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 60
 msgid "[setup/workPeriod.xml?endPeriod2-60]"
-msgstr "[setup/workPeriod.xml?endPeriod2-60]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-600
-#: setup/workPeriod.xml?endPeriod2-600
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 600
 msgid "[setup/workPeriod.xml?endPeriod2-600]"
-msgstr "[setup/workPeriod.xml?endPeriod2-600]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-630
-#: setup/workPeriod.xml?endPeriod2-630
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 630
 msgid "[setup/workPeriod.xml?endPeriod2-630]"
-msgstr "[setup/workPeriod.xml?endPeriod2-630]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-660
-#: setup/workPeriod.xml?endPeriod2-660
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 660
 msgid "[setup/workPeriod.xml?endPeriod2-660]"
-msgstr "[setup/workPeriod.xml?endPeriod2-660]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-690
-#: setup/workPeriod.xml?endPeriod2-690
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 690
 msgid "[setup/workPeriod.xml?endPeriod2-690]"
-msgstr "[setup/workPeriod.xml?endPeriod2-690]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-720
-#: setup/workPeriod.xml?endPeriod2-720
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 720
 msgid "[setup/workPeriod.xml?endPeriod2-720]"
-msgstr "[setup/workPeriod.xml?endPeriod2-720]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-750
-#: setup/workPeriod.xml?endPeriod2-750
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 750
 msgid "[setup/workPeriod.xml?endPeriod2-750]"
-msgstr "[setup/workPeriod.xml?endPeriod2-750]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-780
-#: setup/workPeriod.xml?endPeriod2-780
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 780
 msgid "[setup/workPeriod.xml?endPeriod2-780]"
-msgstr "[setup/workPeriod.xml?endPeriod2-780]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-810
-#: setup/workPeriod.xml?endPeriod2-810
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 810
 msgid "[setup/workPeriod.xml?endPeriod2-810]"
-msgstr "[setup/workPeriod.xml?endPeriod2-810]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-840
-#: setup/workPeriod.xml?endPeriod2-840
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 840
 msgid "[setup/workPeriod.xml?endPeriod2-840]"
-msgstr "[setup/workPeriod.xml?endPeriod2-840]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-870
-#: setup/workPeriod.xml?endPeriod2-870
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 870
 msgid "[setup/workPeriod.xml?endPeriod2-870]"
-msgstr "[setup/workPeriod.xml?endPeriod2-870]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-90
-#: setup/workPeriod.xml?endPeriod2-90
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 90
 msgid "[setup/workPeriod.xml?endPeriod2-90]"
-msgstr "[setup/workPeriod.xml?endPeriod2-90]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-900
-#: setup/workPeriod.xml?endPeriod2-900
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 900
 msgid "[setup/workPeriod.xml?endPeriod2-900]"
-msgstr "[setup/workPeriod.xml?endPeriod2-900]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-930
-#: setup/workPeriod.xml?endPeriod2-930
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 930
 msgid "[setup/workPeriod.xml?endPeriod2-930]"
-msgstr "[setup/workPeriod.xml?endPeriod2-930]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-960
-#: setup/workPeriod.xml?endPeriod2-960
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 960
 msgid "[setup/workPeriod.xml?endPeriod2-960]"
-msgstr "[setup/workPeriod.xml?endPeriod2-960]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?endPeriod2-990
-#: setup/workPeriod.xml?endPeriod2-990
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 990
 msgid "[setup/workPeriod.xml?endPeriod2-990]"
-msgstr "[setup/workPeriod.xml?endPeriod2-990]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1
-#: setup/workPeriod.xml?initPeriod1
+# setup/workPeriod.xml
+#: dropdown - initPeriod1
 msgid "Start time"
 msgstr "زمان شروع"
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-
-#: setup/workPeriod.xml?initPeriod1-
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 -
 msgid "[setup/workPeriod.xml?initPeriod1-]"
-msgstr "[setup/workPeriod.xml?initPeriod1-]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1020
-#: setup/workPeriod.xml?initPeriod1-1020
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1020
 msgid "[setup/workPeriod.xml?initPeriod1-1020]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1020]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1050
-#: setup/workPeriod.xml?initPeriod1-1050
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1050
 msgid "[setup/workPeriod.xml?initPeriod1-1050]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1050]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1080
-#: setup/workPeriod.xml?initPeriod1-1080
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1080
 msgid "[setup/workPeriod.xml?initPeriod1-1080]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1080]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1110
-#: setup/workPeriod.xml?initPeriod1-1110
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1110
 msgid "[setup/workPeriod.xml?initPeriod1-1110]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1110]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1140
-#: setup/workPeriod.xml?initPeriod1-1140
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1140
 msgid "[setup/workPeriod.xml?initPeriod1-1140]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1140]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1170
-#: setup/workPeriod.xml?initPeriod1-1170
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1170
 msgid "[setup/workPeriod.xml?initPeriod1-1170]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1170]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-120
-#: setup/workPeriod.xml?initPeriod1-120
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 120
 msgid "[setup/workPeriod.xml?initPeriod1-120]"
-msgstr "[setup/workPeriod.xml?initPeriod1-120]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1200
-#: setup/workPeriod.xml?initPeriod1-1200
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1200
 msgid "[setup/workPeriod.xml?initPeriod1-1200]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1200]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1230
-#: setup/workPeriod.xml?initPeriod1-1230
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1230
 msgid "[setup/workPeriod.xml?initPeriod1-1230]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1230]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1260
-#: setup/workPeriod.xml?initPeriod1-1260
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1260
 msgid "[setup/workPeriod.xml?initPeriod1-1260]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1260]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1290
-#: setup/workPeriod.xml?initPeriod1-1290
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1290
 msgid "[setup/workPeriod.xml?initPeriod1-1290]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1290]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1320
-#: setup/workPeriod.xml?initPeriod1-1320
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1320
 msgid "[setup/workPeriod.xml?initPeriod1-1320]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1320]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1350
-#: setup/workPeriod.xml?initPeriod1-1350
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1350
 msgid "[setup/workPeriod.xml?initPeriod1-1350]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1350]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1380
-#: setup/workPeriod.xml?initPeriod1-1380
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1380
 msgid "[setup/workPeriod.xml?initPeriod1-1380]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1380]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-1410
-#: setup/workPeriod.xml?initPeriod1-1410
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 1410
 msgid "[setup/workPeriod.xml?initPeriod1-1410]"
-msgstr "[setup/workPeriod.xml?initPeriod1-1410]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-150
-#: setup/workPeriod.xml?initPeriod1-150
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 150
 msgid "[setup/workPeriod.xml?initPeriod1-150]"
-msgstr "[setup/workPeriod.xml?initPeriod1-150]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-180
-#: setup/workPeriod.xml?initPeriod1-180
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 180
 msgid "[setup/workPeriod.xml?initPeriod1-180]"
-msgstr "[setup/workPeriod.xml?initPeriod1-180]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-210
-#: setup/workPeriod.xml?initPeriod1-210
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 210
 msgid "[setup/workPeriod.xml?initPeriod1-210]"
-msgstr "[setup/workPeriod.xml?initPeriod1-210]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-240
-#: setup/workPeriod.xml?initPeriod1-240
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 240
 msgid "[setup/workPeriod.xml?initPeriod1-240]"
-msgstr "[setup/workPeriod.xml?initPeriod1-240]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-270
-#: setup/workPeriod.xml?initPeriod1-270
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 270
 msgid "[setup/workPeriod.xml?initPeriod1-270]"
-msgstr "[setup/workPeriod.xml?initPeriod1-270]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-30
-#: setup/workPeriod.xml?initPeriod1-30
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 30
 msgid "[setup/workPeriod.xml?initPeriod1-30]"
-msgstr "[setup/workPeriod.xml?initPeriod1-30]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-300
-#: setup/workPeriod.xml?initPeriod1-300
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 300
 msgid "[setup/workPeriod.xml?initPeriod1-300]"
-msgstr "[setup/workPeriod.xml?initPeriod1-300]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-330
-#: setup/workPeriod.xml?initPeriod1-330
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 330
 msgid "[setup/workPeriod.xml?initPeriod1-330]"
-msgstr "[setup/workPeriod.xml?initPeriod1-330]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-360
-#: setup/workPeriod.xml?initPeriod1-360
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 360
 msgid "[setup/workPeriod.xml?initPeriod1-360]"
-msgstr "[setup/workPeriod.xml?initPeriod1-360]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-390
-#: setup/workPeriod.xml?initPeriod1-390
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 390
 msgid "[setup/workPeriod.xml?initPeriod1-390]"
-msgstr "[setup/workPeriod.xml?initPeriod1-390]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-420
-#: setup/workPeriod.xml?initPeriod1-420
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 420
 msgid "[setup/workPeriod.xml?initPeriod1-420]"
-msgstr "[setup/workPeriod.xml?initPeriod1-420]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-450
-#: setup/workPeriod.xml?initPeriod1-450
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 450
 msgid "[setup/workPeriod.xml?initPeriod1-450]"
-msgstr "[setup/workPeriod.xml?initPeriod1-450]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-480
-#: setup/workPeriod.xml?initPeriod1-480
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 480
 msgid "[setup/workPeriod.xml?initPeriod1-480]"
-msgstr "[setup/workPeriod.xml?initPeriod1-480]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-510
-#: setup/workPeriod.xml?initPeriod1-510
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 510
 msgid "[setup/workPeriod.xml?initPeriod1-510]"
-msgstr "[setup/workPeriod.xml?initPeriod1-510]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-540
-#: setup/workPeriod.xml?initPeriod1-540
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 540
 msgid "[setup/workPeriod.xml?initPeriod1-540]"
-msgstr "[setup/workPeriod.xml?initPeriod1-540]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-570
-#: setup/workPeriod.xml?initPeriod1-570
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 570
 msgid "[setup/workPeriod.xml?initPeriod1-570]"
-msgstr "[setup/workPeriod.xml?initPeriod1-570]"
+msgstr ""
 
-# TRANSLATION
 # setup/workPeriod.xml?initPeriod1-60
-#: setup/workPeriod.xml?initPeriod1-60
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 60
 msgid "[setup/workPeriod.xml?initPeriod1-60]"
-msgstr "[setup/workPeriod.xml?initPeriod1-60]"
+msgstr ""
 
-# TRANSLATION
 # setup/wsrTaskCase.xml?name
-#: setup/wsrTaskCase.xml?name
+# setup/wsrTaskCase.xml
+#: text - name
 msgid "Task Title"
 msgstr "عنوان کار"
 
-# TRANSLATION
 # cases/cases_CatchSelfService.xml?APP_UID
-#: cases/cases_CatchSelfService.xml?APP_UID
+# cases/cases_CatchSelfService.xml
+#: text - APP_UID
 msgid "Case Uid"
 msgstr "شناسه پرونده"
 
-# TRANSLATION
 # cases/cases_CatchSelfService.xml?BTN_CATCH
-#: cases/cases_CatchSelfService.xml?BTN_CATCH
+# cases/cases_CatchSelfService.xml
+#: submit - BTN_CATCH
 msgid "Claim this case"
 msgstr "دریافت این پرونده"
 
-# TRANSLATION
 # cases/cases_CatchSelfService.xml?DEL_DELEGATE_DATE
-#: cases/cases_CatchSelfService.xml?DEL_DELEGATE_DATE
+# cases/cases_CatchSelfService.xml
+#: text - DEL_DELEGATE_DATE
 msgid "Task Delegate Date"
 msgstr "تاریخ واگذاری کار"
 
-# TRANSLATION
 # cases/cases_CatchSelfService.xml?DEL_TASK_DUE_DATE
-#: cases/cases_CatchSelfService.xml?DEL_TASK_DUE_DATE
+# cases/cases_CatchSelfService.xml
+#: text - DEL_TASK_DUE_DATE
 msgid "Task Due Date"
 msgstr "تاریخ سررسید کار"
 
-# TRANSLATION
 # cases/cases_New.xml?START
-#: cases/cases_New.xml?START
+# cases/cases_New.xml
+#: submit - START
 msgid "Start"
 msgstr "شروع"
 
-# TRANSLATION
 # cases/cases_Reassign.xml?APP_NUMBER
-#: cases/cases_Reassign.xml?APP_NUMBER
+# cases/cases_Reassign.xml
+#: text - APP_NUMBER
 msgid "Case #"
 msgstr "شماره پرونده"
 
-# TRANSLATION
 # cases/cases_Resume.xml?TITLE1
-#: cases/cases_Resume.xml?TITLE1
+# cases/cases_Resume.xml
+#: title - TITLE1
 msgid "Case Properties"
 msgstr "ویژگی‌های پرونده"
 
-# TRANSLATION
 # cases/cases_Resume.xml?UPDATE_DATE
-#: cases/cases_Resume.xml?UPDATE_DATE
+# cases/cases_Resume.xml
+#: text - UPDATE_DATE
 msgid "Last Update"
 msgstr "آخرین به‌روزرسانی"
 
-# TRANSLATION
 # cases/cases_Resume_Current_Task.xml?DEL_INIT_DATE
-#: cases/cases_Resume_Current_Task.xml?DEL_INIT_DATE
+# cases/cases_Resume_Current_Task.xml
+#: text - DEL_INIT_DATE
 msgid "Task Init Date"
 msgstr "تاریخ آغاز کار"
 
-# TRANSLATION
 # cases/cases_Resume_Current_Task_Title.xml?TITLE2
-#: cases/cases_Resume_Current_Task_Title.xml?TITLE2
+# cases/cases_Resume_Current_Task_Title.xml
+#: title - TITLE2
 msgid "Current Task(s) Properties"
 msgstr "ویژگی‌های کار(های) جاری"
 
-# TRANSLATION
 # cases/cases_TaskDetails.xml?DURATION
-#: cases/cases_TaskDetails.xml?DURATION
+# cases/cases_TaskDetails.xml
+#: text - DURATION
 msgid "Duration"
 msgstr "مدت زمان"
 
-# TRANSLATION
 # dynaforms/dynaform_Fields.xml?XMLNODE_NAME
-#: dynaforms/dynaform_Fields.xml?XMLNODE_NAME
+# dynaforms/dynaform_Fields.xml
+#: text - XMLNODE_NAME
 msgid "Field"
 msgstr "فیلد"
 
-# TRANSLATION
 # dynaforms/fields/currency.xml?PME_REQUIRED
-#: dynaforms/fields/currency.xml?PME_REQUIRED
+# dynaforms/fields/currency.xml
+#: checkbox - PME_REQUIRED
 msgid "Required"
 msgstr "الزامی"
 
-# TRANSLATION
 # dynaforms/fields_Toolbar.xml?hidden
-#: dynaforms/fields_Toolbar.xml?hidden
+# dynaforms/fields_Toolbar.xml
+#: toolButton - hidden
 msgid "Hidden"
 msgstr "پنهان"
 
-# TRANSLATION
 # appFolder/appFolderDocumentInfo.xml?USR_USERNAME
-#: appFolder/appFolderDocumentInfo.xml?USR_USERNAME
+# appFolder/appFolderDocumentInfo.xml
+#: caption - USR_USERNAME
 msgid "Creator"
 msgstr "ایجادکننده"
 
