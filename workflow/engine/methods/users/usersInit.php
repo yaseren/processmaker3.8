@@ -53,6 +53,8 @@ if (isset($_REQUEST['userInterface']) && $_REQUEST['userInterface'] === "v2") {
     $html = file_get_contents(PATH_HTML . "lib/userPersonalInformation/index.html");
     $html = str_replace("var USR_UID='';", "var USR_UID='{$aFields['USR_UID']}';", $html);
     $html = str_replace("translation.en.js", "translation.{$lang}.js", $html);
+    $html = Bootstrap::applyLanguageToHtml($html);
+
     $html = str_replace("csrfToken", csrfToken(), $html);
     $html = str_replace("var canEdit=true;", ($canEdit === false ? "var canEdit=true;" : "var canEdit=false;"), $html);
     $html = str_replace("var modeOfForm=1;", "var modeOfForm=2;", $html);

@@ -212,6 +212,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         if (isset($oHeadPublisher)) {
             $header = $oHeadPublisher->printRawHeader();
@@ -366,6 +370,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         if (isset($oHeadPublisher)) {
             $header = $oHeadPublisher->printHeader();
@@ -402,6 +410,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         if (isset($G_ENABLE_BLANK_SKIN) && $G_ENABLE_BLANK_SKIN) {
             $smarty->display($layoutFileBlank['basename']);
@@ -533,6 +545,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         if (isset($G_ENABLE_BLANK_SKIN) && $G_ENABLE_BLANK_SKIN) {
             $smarty->force_compile = $this->forceTemplateCompile;
@@ -624,6 +640,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
         $smarty->register_function('translate', 'translate');
         $smarty->register_function('csrf_token', 'csrfToken');
 
@@ -706,6 +726,10 @@ class SkinEngine
         $smarty->compile_dir = PATH_SMARTY_C;
         $smarty->cache_dir = PATH_SMARTY_CACHE;
         $smarty->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+        // Text direction and locale of the current interface (used by the
+        // layouts to render <html dir="..." lang="...">)
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         // Initializing template variables
         $smarty->assign('userfullname', null);

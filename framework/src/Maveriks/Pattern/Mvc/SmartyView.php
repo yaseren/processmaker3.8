@@ -29,6 +29,10 @@ class SmartyView extends View
         $this->smarty->compile_dir = defined('PATH_SMARTY_C') ? PATH_SMARTY_C : sys_get_temp_dir();
         $this->smarty->cache_dir = defined('PATH_SMARTY_CACHE') ? PATH_SMARTY_CACHE : sys_get_temp_dir();
 
+        // Text direction / locale of the interface, used by the templates to
+        // render <html dir="..." lang="...">
+        $this->smarty->assign('dir', \Bootstrap::getDirection());
+        $this->smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
         // If the paths don't exist we need to create them
         if (!is_dir($this->smarty->compile_dir)) {
             Common::mk_dir($this->smarty->compile_dir);

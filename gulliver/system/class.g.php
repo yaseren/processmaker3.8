@@ -4831,6 +4831,10 @@ class G
 
         $smarty->template_dir = PATH_TEMPLATE;
         $smarty->force_compile = true;
+        // Text direction / locale of the interface, used by the templates to
+        // render <html dir="..." lang="...">
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         foreach ($data as $key => $value) {
             $smarty->assign($key, $value);
