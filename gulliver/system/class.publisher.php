@@ -569,6 +569,8 @@ class Publisher
                 $template->compile_dir = PATH_SMARTY_C;
                 $template->cache_dir = PATH_SMARTY_CACHE;
                 $template->config_dir = PATH_THIRDPARTY . 'smarty/configs';
+                $template->assign('dir', Bootstrap::getDirection());
+                $template->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
                 $template->caching = false;
                 $dataArray = $Part['Data'];
 

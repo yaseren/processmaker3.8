@@ -21,6 +21,8 @@ try {
     $html = file_get_contents(PATH_HTML . "lib/authenticationSources/index.html");
     $html = str_replace("var pageSize=10;", "var pageSize={$pageSize};", $html);
     $html = str_replace("translation.en.js", "translation.{$lang}.js", $html);
+    $html = Bootstrap::applyLanguageToHtml($html);
+
     echo $html;
 } catch (Exception $e) {
     $message = [

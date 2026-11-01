@@ -146,6 +146,10 @@ class Bootstrap
         $templateDir = $filter->validateInput($templateDir, 'path');
         $smarty->template_dir = $templateDir;
         $smarty->force_compile = true;
+        // Text direction / locale of the interface, used by the templates to
+        // render <html dir="..." lang="...">
+        $smarty->assign('dir', Bootstrap::getDirection());
+        $smarty->assign('lang', defined('SYS_LANG') ? SYS_LANG : 'en');
 
         foreach ($data as $key => $value) {
             $smarty->assign($key, $value);
@@ -2612,6 +2616,65 @@ class Bootstrap
     {
         $consthashFx = self::hashFx;
         return $consthashFx($string);
+    }
+
+    /**
+     * Returns the text direction ('rtl' or 'ltr') that must be used to render
+     * the interface for the given language.
+     *
+     * The list of right-to-left languages is kept in ServerConf::$rtlLang, so
+     * Persian ('fa'), Arabic ('ar') and Hebrew ('iw') are handled the same way.
+     *
+     * @param string|null $lang Locale to evaluate. Defaults to the current SYS_LANG.
+     * @return string 'rtl' or 'ltr'
+     */
+    public static function getDirection($lang = null)
+    {
+        if (empty($lang)) {
+            $lang = defined('SYS_LANG') ? SYS_LANG : 'en';
+        }
+        if (class_exists('ServerConf')) {
+            $oServerConf = ServerConf::getSingleton();
+            return $oServerConf->isRtl($lang) ? 'rtl' : 'ltr';
+        }
+        // Fallback used before the ProcessMaker core classes are available.
+        $rtlLanguages = array('ar', 'iw', 'fa');
+        return in_array(substr($lang, 0, 2), $rtlLanguages) ? 'rtl' : 'ltr';
+    }
+
+    /**
+     * Returns true when the given (or current) language must be rendered
+     * right-to-left.
+     *
+     * @param string|null $lang Locale to evaluate. Defaults to the current SYS_LANG.
+     * @return bool
+     */
+    public static function isRtl($lang = null)
+    {
+        return self::getDirection($lang) === 'rtl';
+    }
+
+    /**
+     * Applies the current language and text direction to an HTML document that
+     * ships with a hardcoded <html lang="en"> tag, such as the compiled single
+     * page applications served from /lib/.
+     *
+     * @param string $html HTML document
+     * @return string
+     */
+    public static function applyLanguageToHtml($html)
+    {
+        $lang = defined('SYS_LANG') ? SYS_LANG : 'en';
+        $dir = self::getDirection($lang);
+        return preg_replace_callback(
+            '/<html\b([^>]*)>/i',
+            function ($matches) use ($lang, $dir) {
+                $attrs = preg_replace('/\s+lang\s*=\s*("[^"]*"|\'[^\']*\')/i', '', $matches[1]);
+                return '<html' . $attrs . ' lang="' . $lang . '" dir="' . $dir . '">';
+            },
+            $html,
+            1
+        );
     }
 
     /**
